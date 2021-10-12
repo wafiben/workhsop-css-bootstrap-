@@ -1,0 +1,18 @@
+.form-group{
+    width:70%;
+}
+.btn{
+  /*   background-color: green !important;
+    color: black !important; */
+}
+.container{
+    display: flex !important;
+    flex-direction: column !important;
+    margin:30px!important;
+    /* justify-items: center !important;
+    justify-content: space-around !important; */
+    /* align-items: ; */
+}
+.card{
+    margin-bottom: 20px !important;
+}
